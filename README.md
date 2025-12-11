@@ -10,13 +10,16 @@
   
   *Crafting digital experiences with code and creativity*
   
+  <img src="https://readme-typing-svg.vercel.app/?lines=Welcome+to+my+GitHub!;Full+Stack+Developer;AI+Enthusiast;Coffee+Lover+☕&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" />
+  
 </div>
 
 ---
 
 <div align="center">
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=SnippyKid&color=blueviolet&style=for-the-badge)
+  ![GitHub followers](https://img.shields.io/github/followers/SnippyKid?style=social)
+  ![GitHub stars](https://img.shields.io/github/stars/SnippyKid?style=social)
   
 </div>
 
@@ -81,23 +84,12 @@ const abhay = {
 
 ---
 
-## 📊 GitHub Stats
+## 🎮 Snake Game
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SnippyKid&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnippyKid&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SnippyKid&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
----
-
-## 🎯 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SnippyKid&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  
+  ![Snake animation](https://github.com/SnippyKid/SnippyKid/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
 
 ---
@@ -115,17 +107,18 @@ const abhay = {
 
 ---
 
-## 💡 Random Dev Quote
-
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+  
+  ### ⚡️ Quick Stats
+  
+  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SnippyKid&theme=react-dark&hide_border=true&area=true)
+  
 </div>
 
 ---
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SnippyKid/SnippyKid/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SnippyKid/SnippyKid/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/SnippyKid/SnippyKid/output/github-snake.svg" />
 </picture>
-
