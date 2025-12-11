@@ -16,15 +16,6 @@
 
 ---
 
-<div align="center">
-  
-  ![GitHub followers](https://img.shields.io/github/followers/SnippyKid?style=social)
-  ![GitHub stars](https://img.shields.io/github/stars/SnippyKid?style=social)
-  
-</div>
-
----
-
 ### 👨‍💻 About Me
 
 ```javascript
@@ -84,16 +75,6 @@ const abhay = {
 
 ---
 
-## 🎮 Snake Game
-
-<div align="center">
-  
-  ![Snake animation](https://github.com/SnippyKid/SnippyKid/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
-
----
-
 ## 🤝 Connect With Me
 
 <div align="center">
@@ -117,8 +98,14 @@ const abhay = {
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SnippyKid/SnippyKid/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SnippyKid/SnippyKid/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/SnippyKid/SnippyKid/output/github-snake.svg" />
-</picture>
+<div align="center">
+  
+  ## 🐍 Snake Game
+  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SnippyKid/SnippyKid/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SnippyKid/SnippyKid/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/SnippyKid/SnippyKid/output/github-snake.svg" />
+  </picture>
+  
+</div>
