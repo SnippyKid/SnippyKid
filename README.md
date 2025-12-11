@@ -1,33 +1,29 @@
 <div align="center">
   
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=120&section=header" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=150&section=header&text=Abhay+Hanchate&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=40" />
   
-  <br>
-  
-  <div align="center">
-    <img src="https://readme-typing-svg.vercel.app/?font=Poiret+One&size=45&duration=2000&pause=500&color=F7F7F7&center=true&vCenter=true&width=600&height=80&lines=ABHAY+HANCHATE" alt="Name" />
-  </div>
-  
-  <br>
-  
-  <div align="center">
-    <img src="https://readme-typing-svg.vercel.app/?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&height=50&lines=Web+Developer+%7C+AI+Engineer;Building+Digital+Experiences+✨" alt="Title" />
-  </div>
-  
-  <br>
-  
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+  <br><br>
   
   <table align="center">
     <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=SnippyKid&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D&icon_color=FFC0CB" alt="Stats" height="165px"/>
+      <td align="center" width="50%">
+        <img align="center" alt="Coding" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
       </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=SnippyKid&theme=radical&hide_border=true&background=0D1117&ring=FF6B9D&fire=FF6B9D&currStreakLabel=FF6B9D" alt="Streak" height="165px"/>
+      <td align="center" width="50%">
+        <h1 style="font-size: 3.5em; margin: 0; color: #fff;">ABHAY</h1>
+        <h2 style="font-size: 2em; margin: 0; color: #36BCF7;">HANCHATE</h2>
+        <br>
+        <p style="font-size: 1.2em; color: #a0a0a0; margin: 10px 0;">
+          Web Developer & AI Engineer
+        </p>
+        <p style="font-size: 1em; color: #888; font-style: italic;">
+          Crafting digital experiences with code and creativity
+        </p>
       </td>
     </tr>
   </table>
+  
+  <br>
   
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
   
@@ -51,9 +47,9 @@ const abhay = {
 
 <div align="center">
   
-  <img src="https://readme-typing-svg.vercel.app/?font=Fira+Code&size=25&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&height=50&lines=Technologies+I+Work+With+✨" alt="Tech Stack" />
+  <h3 style="color: #36BCF7; font-size: 1.8em; margin-bottom: 20px;">Technologies I Work With ✨</h3>
   
-  <br><br>
+  <br>
   
   <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=&align=center&titleAlign=center&borderRadius=10&hideBorder=true&hideTitle=true&lineCount=2&theme=github_dark&line1=java,javascript,html5,css3,jquery,bootstrap,tailwind&line2=mongodb,mysql,androidstudio,vscode,git,github" alt="Tech Stack" />
   
