@@ -20,22 +20,8 @@
 
 ```javascript
 const abhay = {
-  pronouns: "He" | "Him",
-  code: ["JavaScript", "Java", "HTML", "CSS"],
-  askMeAbout: ["Web Development", "AI Engineering", "Tech"],
-  technologies: {
-    frontEnd: {
-      js: ["JavaScript", "jQuery"],
-      css: ["Bootstrap", "TailwindCSS"]
-    },
-    backEnd: {
-      js: ["Node.js"],
-      databases: ["MongoDB", "MySQL"]
-    },
-    mobileApp: ["Android Development"],
-    tools: ["VS Code", "Android Studio", "Git", "GitHub"]
-  },
-  currentFocus: "Building amazing web experiences and AI solutions",
+  role: "Web Developer & AI Engineer",
+  focus: "Building amazing web experiences",
   funFact: "I turn coffee into code ☕ → 💻"
 };
 ```
@@ -44,33 +30,22 @@ const abhay = {
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
 <div align="center">
+  
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-</div>
-
-### 🧰 Libraries & Frameworks
-<div align="center">
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
-</div>
-
-### 🛢️ Databases
-<div align="center">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-</div>
-
-### 🧠 Tools & IDEs
-<div align="center">
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  
 </div>
 
 ---
@@ -88,24 +63,8 @@ const abhay = {
 
 ---
 
-<div align="center">
-  
-  ### ⚡️ Quick Stats
-  
-  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SnippyKid&theme=react-dark&hide_border=true&area=true)
-  
-</div>
-
----
-
-<div align="center">
-  
-  ## 🐍 Contribution Snake Game
-  
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SnippyKid/SnippyKid/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SnippyKid/SnippyKid/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SnippyKid/SnippyKid/output/github-contribution-grid-snake.svg">
-  </picture>
-  
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
