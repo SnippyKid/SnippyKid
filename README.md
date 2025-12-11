@@ -12,6 +12,10 @@
 
 <h3>Web Developer & AI Engineer</h3>
 
+<p>
+  <img src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=fiverr&logoColor=white" alt="Freelancer" />
+</p>
+
 <p><i>Building digital experiences with code and creativity</i></p>
 
 <br>
@@ -33,6 +37,9 @@
 <td width="50%">
 
 <br>
+
+**💼 Professional Status**
+- Available for Freelance Projects
 
 **🎯 Focus Areas**
 - Web Development
@@ -80,48 +87,20 @@
 
 ### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=java,javascript,html,css" />
+  <img src="https://skillicons.dev/icons?i=java,javascript,html,css,php" />
 </p>
 
 ### Frameworks & Libraries
 <p>
-  <img src="https://skillicons.dev/icons?i=jquery,bootstrap,tailwind" />
+  <img src="https://skillicons.dev/icons?i=jquery,bootstrap,tailwind,threejs" />
+  <br>
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP" />
 </p>
 
 ### Databases & Tools
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,androidstudio,vscode,git,github" />
 </p>
-
-</div>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br><br>
-
-<!-- GitHub Stats -->
-<div align="center">
-
-## 📊 GitHub Stats
-
-<br>
-
-<table>
-<tr>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=SnippyKid&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&icon_color=00D9FF&text_color=FFFFFF" width="100%" />
-</td>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnippyKid&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&text_color=FFFFFF" width="100%" />
-</td>
-</tr>
-</table>
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SnippyKid&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=F75C7E&fire=F75C7E&currStreakLabel=F75C7E" width="90%" />
 
 </div>
 
