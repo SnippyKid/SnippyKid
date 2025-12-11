@@ -1,10 +1,35 @@
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Abhay&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=120&section=header" />
   
-  <h3>🚀 Web Developer & AI Engineer 💻</h3>
+  <br>
   
-  <p><i>Crafting digital experiences with code and creativity</i></p>
+  <div align="center">
+    <img src="https://readme-typing-svg.vercel.app/?font=Poiret+One&size=45&duration=2000&pause=500&color=F7F7F7&center=true&vCenter=true&width=600&height=80&lines=ABHAY+HANCHATE" alt="Name" />
+  </div>
+  
+  <br>
+  
+  <div align="center">
+    <img src="https://readme-typing-svg.vercel.app/?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&height=50&lines=Web+Developer+%7C+AI+Engineer;Building+Digital+Experiences+✨" alt="Title" />
+  </div>
+  
+  <br>
+  
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+  
+  <table align="center">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=SnippyKid&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D&icon_color=FFC0CB" alt="Stats" height="165px"/>
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=SnippyKid&theme=radical&hide_border=true&background=0D1117&ring=FF6B9D&fire=FF6B9D&currStreakLabel=FF6B9D" alt="Streak" height="165px"/>
+      </td>
+    </tr>
+  </table>
+  
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
   
 </div>
 
