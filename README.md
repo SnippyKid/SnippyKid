@@ -243,39 +243,7 @@ Backend Development    ██████████████░░░░░
 
 <br>
 
-## 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SnippyKid/SnippyKid/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SnippyKid/SnippyKid/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SnippyKid/SnippyKid/output/github-contribution-grid-snake.svg">
-</picture>
-
-<br><br>
-
-<!-- Quote -->
-## 💭 Developer Quote
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20create%20it&author=Abhay%20Hanchate" width="100%" />
-
-<br>
-
-<!-- Random Dev Joke -->
-<img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder" width="100%" />
-
-<br>
-
-<!-- Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-</div>
-
-<!-- Footer Quote -->
-<div align="center">
-
-### ✨ *"Turning ideas into interactive experiences, one line of code at a time"* ✨
-
-<br>
+>
 
 <!-- Footer Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20,26,30&height=150&section=footer" />
