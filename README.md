@@ -1,9 +1,5 @@
 <div align="center">
 
-<!-- Custom Animated Purple Matrix Header -->
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=14,17,20,23,26&height=300&section=header&text=ENTERING%20ABHAY'S%20UNIVERSE&fontSize=45&fontColor=fff&animation=blinking&fontAlignY=40&desc=◇%20Full-Stack%20Developer%20◇%20Designer%20◇%20AI%20Engineer%20◇&descSize=20&descAlignY=65" />
-
-</div>
 
 <!-- Glitch Effect Name -->
 <div align="center">
